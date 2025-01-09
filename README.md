@@ -1,5 +1,5 @@
 # playwright-python-test-automation
-This GitHub repository helps you create and build a new test automation project using Playwright in Python.
+This GitHub repository helps you create and build a new test automation project using Playwright with Python.
 
 
 
@@ -149,6 +149,7 @@ To run a set of test files, pass in the names of the test files that you want to
 ```
 pytest tests/test_todo_page.py tests/test_landing_page.py
 ```
+
 
 
 
